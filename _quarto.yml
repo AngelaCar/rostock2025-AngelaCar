@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Angela's Advanced Github Notes"
+  navbar: 
+    backgroud: primary
+    search: true
+
+format:
+  html:
+    theme: sketchy
+    
