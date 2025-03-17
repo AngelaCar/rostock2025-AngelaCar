@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Angela's Advanced Github Notes"
+  title: "Angela's Advanced Github Notes - tiny change"
   navbar: 
     backgroud: primary
     search: true
